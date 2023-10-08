@@ -21,3 +21,5 @@ HELLO
 
 АВТОР
 	Andrew Y. Salo <salo@cs.karelia.ru>
+
+Модификация 1
